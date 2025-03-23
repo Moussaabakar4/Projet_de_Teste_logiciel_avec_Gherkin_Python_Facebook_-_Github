@@ -1,0 +1,58 @@
+{
+    "tests": [
+        {
+            "scenario": "Connexion r\u00e9ussie pour moussaabakarabbazene",
+            "status": "failure",
+            "details": {
+                "reason": "Redirection manquante"
+            }
+        },
+        {
+            "scenario": "Connexion r\u00e9ussie pour moussaabakarabbazene",
+            "status": "failure",
+            "details": {
+                "reason": "Redirection manquante"
+            }
+        },
+        {
+            "scenario": "Connexion r\u00e9ussie pour moussaabakarabbazene",
+            "status": "success",
+            "details": {}
+        },
+        {
+            "scenario": "Connexion r\u00e9ussie pour moussaabakarabbazene",
+            "status": "failure",
+            "details": {
+                "reason": "Redirection manquante"
+            }
+        },
+        {
+            "scenario": "Connexion r\u00e9ussie pour moussaabakarabbazene",
+            "status": "failure",
+            "details": {
+                "reason": "Redirection manquante"
+            }
+        },
+        {
+            "scenario": "Connexion r\u00e9ussie pour moussaabakarabbazene",
+            "status": "failure",
+            "details": {
+                "reason": "Redirection manquante"
+            }
+        },
+        {
+            "scenario": "Connexion r\u00e9ussie pour moussaabakarabbazene",
+            "status": "failure",
+            "details": {
+                "reason": "Redirection manquante"
+            }
+        },
+        {
+            "scenario": "Connexion r\u00e9ussie pour moussaabakarabbazene",
+            "status": "failure",
+            "details": {
+                "reason": "Redirection manquante"
+            }
+        }
+    ]
+}

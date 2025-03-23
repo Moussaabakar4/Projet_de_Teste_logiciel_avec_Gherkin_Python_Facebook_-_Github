@@ -1,0 +1,7 @@
+[
+    {
+        "scenario": "Connexion r\u00e9ussie avec des identifiants valides",
+        "result": "\u00e9chec",
+        "message": "La redirection vers la page d'accueil a \u00e9chou\u00e9"
+    }
+]
